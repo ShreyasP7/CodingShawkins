@@ -63,18 +63,6 @@ body{
   color: #3498db;
 }
 
-
-
-.card-btn{
-  display: inline-block;
-  text-align: center;
-  width: 40%;
-  margin: 0px 28%;
-}
-.card:hover {
-  transform: scale(1.1);
-}
-
 .registration-form{
     width: 35vw;
     margin: auto;
